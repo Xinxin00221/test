@@ -1,7 +1,9 @@
 # test
 '''
 仿真泛化覆盖度实现方案
+
 功能：记录仿真泛化覆盖度的一些方案设计、修改时间、修改人等。
+
 测试数据：
 100个单车单帧的仿真工作流文件（params.json、record.json、reference.json及video.avi），场景选
 择为cutin场景(0、2、1)
